@@ -29,8 +29,7 @@ What would I do if I have some time:
 #### My experience in Java
 
 - Over twenty years of professional work with Java (since 2001)
-- I started doing Spring Boot in 2017 (with Rakuten), up to present (MUFG) and I am quite confident in using this
-- Please see my cv for the details of my past experiences
+- I started doing Spring Boot in 2017, up to present and I am quite confident in using it
 
 Thank you.
 
